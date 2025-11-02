@@ -1,0 +1,7 @@
+add Jime 0501234356
+phone Jime
+all
+change Jime 0500000000
+all
+exit
+
